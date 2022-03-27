@@ -19,6 +19,6 @@ End - uninject DLL library
 ========= How to inject DLL to the game =========
 Download any game DLL injector
 
-Select Assassin's-Creed-FlyHack.dll
+Select Assassin's Creed 2 FlyHack.dll
 
-Chose Assassin's Creed and inject it into the game.
+Chose Assassin's Creed 2 and inject it into the game.
