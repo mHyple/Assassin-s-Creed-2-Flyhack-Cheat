@@ -23,3 +23,8 @@ Download any game DLL injector
 Select Assassin's Creed 2 FlyHack.dll
 
 Chose Assassin's Creed 2 and inject it into the game.
+
+
+
+
+This FlyHack is a bit glitchy because I did not have time to fix it. Enjoy.
